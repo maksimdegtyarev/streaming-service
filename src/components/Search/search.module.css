@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  display: flex;
+  margin-top: 15px;
+  flex: 1;
+}
+
+.input {
+  height: 53px;
+  padding-left: 44px;
+  padding-right: 10px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 12px;
+  background-color: #F5F5F5;
+  color: #A4A4A4;
+  border-radius: 30px;
+  border: none;
+  text-transform: uppercase;
+  width: 100%;
+  margin-right: 30px;
+}
+
+.icon {
+  position: absolute;
+  left: 15px;
+  top: 18px;
+}

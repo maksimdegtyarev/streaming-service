@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 13px;
+  padding-right: 13px;
+  align-items: center;
+  background-color: #F5F5F5;
+  border-radius: 30px;
+  text-decoration: none;
+  width: 246px;
+  margin-top: 15px;
+  margin-right: 30px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  font-size: 14px;
+  line-height: 12px;
+  color: #171717;
+}
+
+.avatar {
+  width: 42px;
+  height: 42px;
+  background-size: contain;
+  margin-right: 11px;
+}
